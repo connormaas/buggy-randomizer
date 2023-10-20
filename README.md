@@ -163,8 +163,9 @@ allow you to assign names to different groups and update the Buggy Navigator.
 ## Installation and Dependencies
 
 Required:
-- **Python**: The app can successfully run on `Python 3.9.18`, but should work 
-on most versions of Python.
+- **Python**: The app can successfully run on `Python 3.9.18`. You will likely 
+need `python >=3.9` due to the use of specific methods introduced in 
+this version.
 - **[python-docx](https://python-docx.readthedocs.io)**: Generate word 
 documents.
 
