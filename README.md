@@ -2,10 +2,8 @@
 
 ## Demo
 
-Please view the [full video demo]() (7:00) or [abbreviated video demo]() (17:34) 
+Please view the [full video demo](https://www.youtube.com/watch?v=z_rRfHiElks) (17:34) or [abbreviated video demo](https://www.youtube.com/watch?v=fagQCA8_CvI) (7:00) 
 for this project.
-
-^^ add links
 
 ## Creator's Note
 This project stands as a testament to clarity and effectiveness. The codebase 
