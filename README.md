@@ -2,7 +2,7 @@
 
 ## Demo
 
-Please view the [full video demo]() (6:59) or [abbreviated video demo]() (17:34) 
+Please view the [full video demo]() (7:00) or [abbreviated video demo]() (17:34) 
 for this project.
 
 ^^ add links
