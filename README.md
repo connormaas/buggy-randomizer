@@ -148,9 +148,9 @@ sensitive information.
 ## Room for Improvement
 
 ### Problem
-Every semester, we must update *names*, *seniorities*, *groups*, and the *buggy* 
-*navigator*. However, the only way to do so is by manually inserting new images
-precisely following the `images/{name}.png` syntax. This can be tedious,
+Every semester, we must update names, seniorities, buggy groups, and the buggy 
+navigator. However, the only way to do so is by manually inserting new images
+precisely following the `images/{name}.png` format. This can be tedious,
 especially with a large number of members.
 
 ### Suggestions
