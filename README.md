@@ -155,8 +155,8 @@ especially with a large number of members.
 
 ### Suggestions
 Create profiles by name that store information. This way we can automatically 
-assign names to seniorities. On top of that create features within the app that
-allow you to assign names to different groups and update the Buggy Navigator.
+assign names to seniorities. On top of that, create features within the app that
+allow you to assign people to different groups and update the Buggy Navigator.
 
 ## Installation and Dependencies
 
