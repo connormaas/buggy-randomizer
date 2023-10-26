@@ -169,7 +169,7 @@ documents.
 
 Optional
 - **[python-dotenv](https://pypi.org/project/python-dotenv/)**: Access 
-environment variables from within the program to safely store you email and 
+environment variables from within the program to safely store your email and 
 password.
 
 Step-by-step:
