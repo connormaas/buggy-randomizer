@@ -180,3 +180,7 @@ Step-by-step:
 5. Follow the **Customizaton** section above to adapt the program to fit your 
 needs.
 6. Run the `buggyRandomizer.py` file using Python.
+
+## Contributing
+
+Feel free to fork the repository and submit pull requests for any enhancements or bug fixes. Contributions are always welcome!
